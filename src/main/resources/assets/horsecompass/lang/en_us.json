@@ -1,0 +1,13 @@
+{
+  "itemGroup.horsecompass": "Example Mod Tab",
+  "block.horsecompass.example_block": "Example Block",
+  "item.horsecompass.example_item": "Example Item",
+
+  "horsecompass.configuration.title": "Horse Compass Configs",
+  "horsecompass.configuration.section.horsecompass.common.toml": "Horse Compass Configs",
+  "horsecompass.configuration.section.horsecompass.common.toml.title": "Horse Compass Configs",
+  "horsecompass.configuration.items": "Item List",
+  "horsecompass.configuration.logDirtBlock": "Log Dirt Block",
+  "horsecompass.configuration.magicNumberIntroduction": "Magic Number Text",
+  "horsecompass.configuration.magicNumber": "Magic Number"
+}
