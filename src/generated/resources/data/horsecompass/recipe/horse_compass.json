@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "c": "minecraft:carrot",
+    "h": "minecraft:hay_block",
+    "o": "minecraft:compass"
+  },
+  "pattern": [
+    "chc",
+    "hoh",
+    "chc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "horsecompass:horse_compass"
+  }
+}
